@@ -33,6 +33,9 @@
 		<!-- / Start Content --><section id="content">
 		
 		<!-- / Start Header --><header>
+
+							<% unless @title == "Terms" %>
+							<% unless @title == "Privacy" %>
 							<section class="hold">
 							<div id="error_messages" class="Logcontainer">
 							<ul>
@@ -76,6 +79,9 @@
 							<span class="t"></span><span class="b"></span>
 							</div>
 							</div>
+							<%end%>
+							<%end%>
+							
 
 		
 		<%= yield %>
