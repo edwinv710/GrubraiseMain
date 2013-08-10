@@ -1,0 +1,7 @@
+===What is Grubraise?
+
+What is Grubraise?
+
+Grubraise is a better way to do school fundraising. Typically, restaurant fundraisers require the scheduling of a dates and times where PTA's organize parents and invite them to fundraise over meals. Additionally, each year parents, and friends are asked to purchase overpriced items they are never too pumped about, like magazines, in support of local schools. grubraise simplifies things so that your school is always raising money, while parents and friends are delighted to order delicious food locally! When it's time to grubraise, through our site, parents and friends can log in and order food locally during give back hours. Each time a purchase is made, your school raises money.
+
+Heroku: http://morning-plains-5898.herokuapp.com/index.html
